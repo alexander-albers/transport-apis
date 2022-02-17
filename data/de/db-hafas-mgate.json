@@ -4,10 +4,15 @@
     "hafasMgate": true
   },
   "supportedLanguages": [
-    "en",
     "de",
+    "en",
     "fr",
-    "es"
+    "es",
+    "it",
+    "nl",
+    "da",
+    "pl",
+    "cs"
   ],
   "timezone": "Europe/Berlin",
   "attribution": {
